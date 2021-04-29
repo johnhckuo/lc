@@ -1,5 +1,8 @@
 # system design
 
+[![hackmd-github-sync-badge](https://hackmd.io/vdtbenXuTIuUG3eGZWOoOA/badge)](https://hackmd.io/vdtbenXuTIuUG3eGZWOoOA)
+
+
 ###### tags: `interview`
 https://vagrantpi.github.io/2019/11/01/understanding-worker-threads-in-Node.js/
 
